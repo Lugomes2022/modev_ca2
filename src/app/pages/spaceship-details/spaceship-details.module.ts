@@ -18,3 +18,5 @@ import { SpaceshipDetailsPage } from './spaceship-details.page';
   declarations: [SpaceshipDetailsPage]
 })
 export class SpaceshipDetailsPageModule {}
+
+
